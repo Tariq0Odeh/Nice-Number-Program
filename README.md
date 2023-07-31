@@ -1,4 +1,4 @@
-# [Nice Number Programming](/Nice Number Programming.pdf)
+# [Nice Number Programming](/Nice%20Number%20Programming.pdf)
 Welcome to the Ant Searching for Food Simulation project! This project aims to simulate the behavior of a group of ants in search of food. The simulation is designed to be simple yet engaging, providing an opportunity to observe the collective behavior of ants.
 
 ## Objective
