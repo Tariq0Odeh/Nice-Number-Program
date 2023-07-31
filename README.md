@@ -11,5 +11,5 @@
   
 ## Languages And Tools:
 
-- <img align="left" alt="Eclipse Software" width="40px" src="https://en.wikipedia.org/wiki/Eclipse_(software)#/media/File:Eclipse-Luna-Logo.svg" /> <img align="left" alt="Java" width="50px" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg" /><img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+- <img align="left" alt="Eclipse" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/eclipse-logo-vector.svg" /> <img align="left" alt=  "Java" width="50px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" /> <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <br/>
